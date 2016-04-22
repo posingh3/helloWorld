@@ -1,0 +1,3 @@
+Hey there.
+This is my first attempt to learn to use Git.
+Please wish me luck!!!
